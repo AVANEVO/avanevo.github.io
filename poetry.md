@@ -4,7 +4,7 @@ permalink: /poetry/
 title: poetry
 description: Showcase your writing, short stories, or poems. Replace this text with your description.
 ---
-
+<img class="col one right" src="/img/prof_pic.jpg">
 <ul class="post-list">
 {% for poem in site.poetry reversed %}
     <li>
